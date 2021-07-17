@@ -3,8 +3,9 @@ Resolusi saya
 Menguasai Frontend
 1. belajar HTML
 2. belajar CSS
-3. Belajar FORMWORK
+3. Belajar FRAMWORK
 4. Belajar GIT
 
 Menguasi Backend
 1. Belajar PHP
+2. Belajar FRAMWORK
