@@ -5,3 +5,6 @@ Menguasai Frontend
 2. belajar CSS
 3. Belajar FORMWORK
 4. Belajar GIT
+
+Menguasi Backend
+1. Belajar PHP
